@@ -1,0 +1,14 @@
+{
+    "name": "uabot",
+    "version": "0.1.2",
+    "descripton": "Google Universal Analytics Discord bot",
+    "main": "uabot.js",
+    "author": "Joshua Jones",
+    "dependencies": {
+        "better-sqlite-pool": "^0.2.0",
+        "discord.js": "^11.4.2",
+        "enmap": "^4.6.6",
+        "universal-analytics": "^0.4.20",
+        "winston": "^3.1.0"
+    }
+}

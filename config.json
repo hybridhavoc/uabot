@@ -1,0 +1,8 @@
+{
+    "token": "",
+    "clientId": "",
+    "prefix": ".ua ",
+    "loggerLevel": "info",
+    "inviteURL": "https://discordapp.com/api/oauth2/authorize?client_id=545963530042605568&scope=bot&permissions=76864",
+    "trackingId": ""
+}
